@@ -1,0 +1,14 @@
+# Binaries
+*.psd
+*.aseprite
+*.pdf
+
+# OS files
+.DS_Store
+__MACOSX/
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
