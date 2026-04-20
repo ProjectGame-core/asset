@@ -14,23 +14,22 @@ Koleksi asset game pixel art top-down 2D yang terorganisasi.
 │   └── player/          # Karakter pemain
 │       └── male-hero/   # Hero pria 4 arah
 ├── environment/         # Asset lingkungan
-│   ├── buildings/       # Bangunan
-│   │   ├── guild-hall/  # Guild hall
-│   │   └── home/        # Rumah karakter utama
+│   ├── buildings/       # Bangunan & struktur
+│   │   ├── bridges/     # Jembatan + animasi air
+│   │   ├── ruins/       # Reruntuhan (stone, sand, snow, dll.)
+│   │   ├── guild_hall_* # Asset guild hall (exterior, interior, walls)
+│   │   └── home_*       # Asset rumah (interior, exterior, walls, detail)
 │   ├── dungeon/         # Asset dungeon
 │   │   ├── cave/        # Objek gua
 │   │   ├── objects/     # Objek dungeon
 │   │   ├── props/       # Props dungeon (meriam, bom, dll.)
 │   │   └── tiles/       # Tile dungeon (dinding, lantai, air)
-│   ├── nature/          # Asset alam
-│   │   ├── bushes/      # Semak-semak
-│   │   ├── farm-plants/ # Tanaman farm
-│   │   ├── forest/      # Objek hutan
-│   │   ├── rocks/       # Batu dan batu besar
-│   │   └── trees/       # Pohon (berbagai jenis)
-│   └── structures/      # Struktur lingkungan
-│       ├── bridges/     # Jembatan
-│       └── ruins/       # Reruntuhan
+│   └── nature/          # Asset alam
+│       ├── bushes/      # Semak-semak
+│       ├── farm-plants/ # Tanaman farm
+│       ├── forest/      # Objek hutan
+│       ├── rocks/       # Batu dan batu besar
+│       └── trees/       # Pohon (berbagai jenis)
 ├── items/               # Item collectible
 │   ├── crystals/        # Kristal berwarna
 │   └── magic-book/      # Buku magic animasi
