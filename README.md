@@ -10,6 +10,7 @@ Koleksi asset game pixel art top-down 2D yang terorganisasi.
 │   ├── enemies/         # Musuh
 │   │   ├── orc/         # Karakter Orc (3 variasi)
 │   │   └── slime/       # Slime mobs
+│   ├── npc/             # NPC (Guildmaster, Citizen, Fighter, Mage, Reader, dll.)
 │   └── player/          # Karakter pemain
 │       └── male-hero/   # Hero pria 4 arah
 ├── environment/         # Asset lingkungan
